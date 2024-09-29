@@ -1,8 +1,8 @@
 
-## [Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images](https://arxiv.org/abs/2311.06009) (Under Review)
+## [Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images](https://www.arxiv.org/abs/2408.05117) (Under Review)
 <!-- [![DOI](https://img.shields.io/badge/DOI-10.1007/978--3--031--43990--2__57-darkyellow)](https://doi.org/10.1007/978-3-031-43990-2_57) -->
 <!-- [![SharedIt](https://img.shields.io/badge/SharedIt-rdcu.be/dnwMc-darkyellow.svg)](https://rdcu.be/dnwMc) -->
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2311.06009-darkyellow.svg)](https://arxiv.org/abs/2311.06009) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2408.05117-darkyellow.svg)](https://www.arxiv.org/abs/2408.05117)
 
 By [Shouyue Liu](https://github.com/iAaronLau), [Jinkui Hao](https://scholar.google.com/citations?user=XQqCo8QAAAAJ&hl=zh-CN), [Yonghuai Liu](https://scholar.google.com/citations?user=8J-qVlQAAAAJ&hl=zh-CN), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=zh-CN), [Xinyu Guo](https://github.com/Mr-Guowang), Shuting Zhang, and [Yitian Zhao](https://scholar.google.com/citations?user=8mULu94AAAAJ&hl=zh-CN)
 
@@ -63,13 +63,11 @@ Due to the method need the multiple inputs, i.e., SVC, DVC and choriocapillaris,
 If you find our paper useful in your research, please consider citing:
 
 ```
-@inproceedings{liu2023polar,
-  title={Polar-Net: A Clinical-Friendly Model for Alzheimer’s Disease Detection in OCTA Images},
-  author={Liu, Shouyue and Hao, Jinkui and Xu, Yanwu and Fu, Huazhu and Guo, Xinyu and Liu, Jiang and Zheng, Yalin and Liu, Yonghuai and Zhang, Jiong and Zhao, Yitian},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={607--617},
-  year={2023},
-  organization={Springer}
+@article{liu2024beyond,
+  title={Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images},
+  author={Liu, Shouyue and Hao, Jinkui and Liu, Yonghuai and Fu, Huazhu and Guo, Xinyu and Zhang, Shuting and Zhao, Yitian},
+  journal={arXiv preprint arXiv:2408.05117},
+  year={2024}
 }
 ```
 
